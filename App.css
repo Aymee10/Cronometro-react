@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.app-container {
+height: 100vh;             
+  display: flex;             
+  flex-direction: row;   
+  justify-content: center;  
+  align-items: center;       
+  background-color: #f8d1f5;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px; 
+}
+
+.div-elemento{
+  height: 50vh;
+  border: solid 1px;
+  margin: 20px;
+  padding: 20px; 
+  background-color: #f784c7;
+
+}
